@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Namirah
 
-<!--
-**FA24-BCS-089/FA24-BCS-089** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BS Computer Science | 3rd Semester**  
+Passionate about **Backend Development, Java, DSA & Web Development**  
+Currently learning **Data Structures & Algorithms**  
+Working on: **Crime Reporting System (Java + OOP)**  
+Explore my projects below!
 
-Here are some ideas to get you started:
+## Skills & Tools
+**Languages:** Java, C, Python (basic)
+**Concepts:** OOP, Data Structures, Problem Solving
+**Tools:** Git, GitHub, VS Code, IntelliJ IDEA
+**Interests:** Backend, Mobile Apps, AI, Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+**Crime Reporting System (Java)**
+**School/Library/University Management Systems**
+**Cinema Ticket Booking System**
+
+## Contact
+Email: FA24-BCS-089@cuilahore.edu.pk
+
+Thanks for visiting!
