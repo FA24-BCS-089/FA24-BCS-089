@@ -7,15 +7,15 @@
 -Explore my projects below!
 
 ## Skills & Tools
--**Languages:** Java, C, Python (basic)
--**Concepts:** OOP, Data Structures, Problem Solving
--**Tools:** Git, GitHub, VS Code, IntelliJ IDEA
--**Interests:** Backend, Mobile Apps, AI, Web Development
+- **Languages:** Java, C, Python (basic)
+- **Concepts:** OOP, Data Structures, Problem Solving
+- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA
+- **Interests:** Backend, Mobile Apps, AI, Web Development
 
 ## Current Projects
--**Crime Reporting System (Java)**
--**School/Library/University Management Systems**
--**Cinema Ticket Booking System**
+- **Crime Reporting System (Java)**
+- **School/Library/University Management Systems**
+- **Cinema Ticket Booking System**
 
 ## Contact
 Email: FA24-BCS-089@cuilahore.edu.pk
